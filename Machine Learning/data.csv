@@ -1,0 +1,11 @@
+age,income,date,marital_status,gender
+35,70000,2020-01-01,married,female
+41,90000,2020-01-02,single,male
+23,50000,2020-01-03,married,male
+32,60000,2020-01-04,single,female
+28,,2020-01-05,married,female
+36,75000,2020-01-06,single,male
+45,100000,2020-01-07,married,female
+39,80000,,single,male
+44,95000,2020-01-09,married,male
+29,55000,2020-01-10,single,female
